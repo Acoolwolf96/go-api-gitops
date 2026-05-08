@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: go-api
-          image: 192.168.1.172:30500/go-api:60126c8deb643cb668d26a2024493794e4b7080f
+          image: 192.168.1.172:30500/go-api:5017f95834059429f463f9e1e0b1a4e4b74cbeb4
           ports:
             - containerPort: 8080
 ---
